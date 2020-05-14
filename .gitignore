@@ -1,0 +1,8 @@
+*.o
+*.i
+*.s
+*.a
+*.so
+a.out
+main
+
