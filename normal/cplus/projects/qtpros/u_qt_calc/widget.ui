@@ -22,6 +22,9 @@
      <height>61</height>
     </rect>
    </property>
+   <property name="readOnly">
+    <bool>true</bool>
+   </property>
   </widget>
   <widget class="QPushButton" name="backPb">
    <property name="geometry">
@@ -268,6 +271,32 @@
    </property>
    <property name="text">
     <string>=</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="leftBracketPb">
+   <property name="geometry">
+    <rect>
+     <x>400</x>
+     <y>150</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>(</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="rightBracketPb">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>150</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>)</string>
    </property>
   </widget>
  </widget>

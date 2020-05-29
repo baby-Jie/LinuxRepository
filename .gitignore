@@ -6,6 +6,8 @@
 *.out
 *.swp
 *.pro.user
+*Debug*
+*debug*
 main
 demo1
 demo2
