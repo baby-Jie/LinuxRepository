@@ -5,6 +5,7 @@
 *.so
 *.out
 *.swp
+*.pro.user
 main
 demo1
 demo2
