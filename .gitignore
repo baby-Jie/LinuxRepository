@@ -5,6 +5,7 @@
 *.so
 *.out
 *.swp
+*.exe
 main
 demo1
 demo2
