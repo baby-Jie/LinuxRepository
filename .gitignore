@@ -5,13 +5,10 @@
 *.so
 *.out
 *.swp
-<<<<<<< HEAD
 *.exe
-=======
 *.pro.user
 *Debug*
 *debug*
->>>>>>> 9a2c9ffdcff75b36c17f335b566de5e7a0b4f2d1
 main
 demo1
 demo2
