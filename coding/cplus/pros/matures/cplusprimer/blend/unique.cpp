@@ -12,6 +12,7 @@ int main()
 	v.push_back("abc");
 	v.push_back("aav");
 	v.push_back("bd");
+	v.push_back("yes");
 	v.push_back("bd");
 	sort(v.begin(), v.end());
 
@@ -22,6 +23,5 @@ int main()
 	{
 		cout << v[i] << endl;
 	}
-	cout << "yes" << endl;
 	return 0;
 }
