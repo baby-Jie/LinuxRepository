@@ -9,6 +9,7 @@
 *.pro.user
 *Debug*
 *debug*
+core
 main
 demo1
 demo2
